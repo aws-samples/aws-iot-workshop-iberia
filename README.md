@@ -2,7 +2,7 @@
 
 This is an AWS IoT Workshop designed and created by Solutions Architects in AWS Iberia.
 
-To enjoy it, please visit:
+To enjoy it, please visit: https://iot.aws-iberia.cloud
 
 #MIGA
 
