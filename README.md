@@ -1,11 +1,10 @@
-## My Project
+## AWS IoT Workshop Iberia
 
-TODO: Fill this README out!
+This is an AWS IoT Workshop designed and created by Solutions Architects in AWS Iberia.
 
-Be sure to:
+To enjoy it, please visit:
 
-* Change the title in this README
-* Edit your repository description on GitHub
+#MIGA
 
 ## Security
 
