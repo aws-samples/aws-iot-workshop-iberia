@@ -4,8 +4,6 @@ This is an AWS IoT Workshop designed and created by Solutions Architects in AWS 
 
 To enjoy it, please visit: https://iot.aws-iberia.cloud
 
-#MIGA
-
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
