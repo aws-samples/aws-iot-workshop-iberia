@@ -59,7 +59,7 @@ openssl req -x509 \
         -sha256 \
         -days 1024 \
         -out rootCA.pem \
-        -config openssl.cnf \
+        -config ~/openssl.cnf \
         -extensions ext
 ```
 Interactive Command Output, enter **Common Name** value of *My Test CA* on highlighted line:
@@ -105,7 +105,7 @@ Generating RSA private key, 2048 bit long modulus
 **Command Input:**
 
 ```bash
-openssl req -new -key verificationCert.key -out verificationCert.csr
+openssl req -new -key verificationCert.key -out verificationCert.csr -config ~/openssl.cnf
 ```
 
 Interactive Command Output, for the **Common Name** field, replace with your *registration code*, press enter for all others to accept defaults:
